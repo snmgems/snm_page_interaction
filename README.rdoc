@@ -1,0 +1,5 @@
+= SnmPageInteraction
+
+This project rocks and uses MIT-LICENSE.
+
+This is a library to record/capture visitor interaction on page of web. Just like what does heat map.
